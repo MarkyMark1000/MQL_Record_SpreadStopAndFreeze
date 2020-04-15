@@ -1,12 +1,10 @@
 //+------------------------------------------------------------------+
 //|                            EA_RecordSpreadStopAndFreezeLevel.mq4 |
 //|                                         Copyright 2017, M Wilson |
-//|                                      https://www.algotrader.blog |
 //+------------------------------------------------------------------+
 #include <C_LOG.mqh>
 
 #property copyright "Copyright 2017, M Wilson"
-#property link      "https://www.algotrader.blog"
 #property version   "1.00"
 #property strict
 //+------------------------------------------------------------------+
